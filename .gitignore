@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Node (ако некогаш додаваш)
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# OS files
+.desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.swp
+
+# Netlify (optional local cache)
+.netlify/
