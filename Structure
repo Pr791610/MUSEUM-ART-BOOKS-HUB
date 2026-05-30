@@ -1,0 +1,18 @@
+ART-BOOKS-HUB/
+│
+├── index.html
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── books/
+├── gallery/
+├── certificates/
+├── humanitarian/
+├── qr/
+├── store/
+│
+└── assets/
+    ├── covers/
+    ├── thumbnails/
+    └── logos/
